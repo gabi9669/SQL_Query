@@ -1,4 +1,4 @@
-# SQL Query scripts
+# SQL scripts
 
 
 This project contains some script files withy ou can list, add, delete and alter roles in the northwind sample database. 
